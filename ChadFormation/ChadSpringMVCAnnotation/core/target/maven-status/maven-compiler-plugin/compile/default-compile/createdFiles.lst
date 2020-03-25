@@ -1,0 +1,10 @@
+com/smc/MyApp.class
+com/smc/FortuneService.class
+com/smc/BaseballCoach.class
+com/smc/DatabaseFortuneService.class
+com/smc/Coach.class
+com/smc/RandomFortuneService.class
+com/smc/HappyFortuneService.class
+com/smc/RESTFortuneService.class
+com/smc/FootballCoach.class
+com/smc/TennisCoach.class
